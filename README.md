@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drishti Sinha</h1>
 <h3 align="center">A passionate UI/UX Designer</h3>
-<img align="center" alt="minion" width="400" src="https://i.gifer.com/Dtd.gif">
+<img align="center" alt="minion" width="400" src="https://i.kym-cdn.com/photos/images/original/000/891/949/84e.gif">
 
 - 🔭 I’m currently working on **A website for mental health well being**
 
