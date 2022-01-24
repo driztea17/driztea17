@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **driztea17@gmail.com**
 
-- ⚡ Fun fact **I can be funny at sometimes :)**
+- ⚡ Fun fact **I can be funny sometimes :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
